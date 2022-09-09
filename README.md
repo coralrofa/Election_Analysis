@@ -17,6 +17,8 @@ The Colorado Board of Elections provided a set of election data for a local cong
 
 ## Result Summary
 
+The overall election results are:
+
 [Election Results](Resources/election_results.png)
 
 ![Election Results](https://github.com/coralrofa/election_analysis/blob/main/Resources/election_results.png)
@@ -43,6 +45,6 @@ In addition to the election audit, the Colorado Board of Elections requested the
 ## Challenge Summary
 -Votes were casted over 3 counties: Jefferson, Denver and Arapahoe. With the County of Denver having the highest turnout.
 1. 82% of the votes (306,055) were cast in Denver.
-2. 10.5% of the votes (38,855) were cast in Jefferson:
-3. 6.7% of the votes (24,801) were cast in Arapahoe
+2. 10.5% of the votes (38,855) were cast in Jefferson.
+3. 6.7% of the votes (24,801) were cast in Arapahoe.
 
