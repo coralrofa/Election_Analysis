@@ -1,11 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-[Election Results] (Resources/election_results.png)
-![Election Results](https://github.com/coralrofa/election_analysis/blob/main/Resources/election_results.png)
 
-
- 
 The Colorado Board of Elections provided a set of election data for a local congressional election and requested an audit of the results. The specific details requested included:
 
 1. Determine the total number of votes cast 
@@ -17,6 +13,12 @@ The Colorado Board of Elections provided a set of election data for a local cong
 ## Resources
 -Data Source: election_results.csv
 -Software: Python 3.7.6, Visual Studio Code 1.71.0
+
+## Result Summary
+
+[Election Results](Resources/election_results.png)
+
+![Election Results](https://github.com/coralrofa/election_analysis/blob/main/Resources/election_results.png)
 
 ## Audit Summary
 The audit results are:
